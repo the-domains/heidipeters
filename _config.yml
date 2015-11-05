@@ -1,0 +1,23 @@
+name: heidipeters
+favicon: null
+layout_spectrum: 0.6755376718938351
+typography_spectrum: 0.9722226695157588
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.35163800208829343
+  lightness: 0.1923817046917975
+  saturation: 0.6727376813068986
+  rhythmicContrast: 0.5729138755705208
+purpose: []
